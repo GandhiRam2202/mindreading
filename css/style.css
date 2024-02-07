@@ -1,0 +1,42 @@
+body{
+    background: rgb(47, 47, 116);
+}
+
+.card{
+    background: linear-gradient(270deg,grey,white,grey);
+    width: 400px;
+}
+.card-img{
+    width: 50%;
+}
+h1{
+    background: linear-gradient(270deg,black,blue,black);
+    color: white;
+}
+.No{
+    width: 100%;
+    border-bottom-right-radius: 25px;
+    color: white;
+    background: linear-gradient(270deg,black,blue,black);
+}
+
+
+.Yes{
+    width: 100%;
+    border-bottom-left-radius: 25px;
+    color: white;
+    background: linear-gradient(270deg,black,blue,black);
+}
+
+.Ok{
+    width: 100%;
+    border-bottom-right-radius: 25px;
+    color: white;
+    background: linear-gradient(270deg,black,blue,black);
+}
+.card-header{
+    background: linear-gradient(270deg,black,blue,black);
+    color: white;
+    position: sticky;
+    top: 0;
+}

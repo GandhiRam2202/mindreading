@@ -89,7 +89,7 @@ thrdBtnYes.addEventListener('click',function(){
     card4.append(cardBody)
     cardBody.append(img)
     cardBody.append(textRow)
-    textRow.innerHTML = `<h4>Click <span style="color:green">Yes</span> If The Number On Your Mind Is In This List Or Click <span style="color:red">No</span><br><span>8,9,10,11,12,13,14,15,24,25<br>26,27,28,29,30,31,40,41,42,43<br>44,45,46,47,56,57,60,61,62,63<br>72,73,74,75,76,77,78,79,80,81<br>82,83,84,85,86,87,88,89,90,91<br>92,93,94,95</h4>`
+    textRow.innerHTML = `<h4>Click <span style="color:green">Yes</span> If The Number On Your Mind Is In This List Or Click <span style="color:red">No</span><br><span>8,9,10,11,12,13,14,15,24,25<br>26,27,28,29,30,31,40,41,42,43<br>44,45,46,47,56,57,58,59,60,61<br>62,63,72,73,74,75,76,77,78,79<br>88,89,90,91,92,93,94,95</h4>`
     card4.append(card4BtnRow)
     mindCalculation(16)
 })
@@ -101,7 +101,7 @@ thrdBtnNo.addEventListener('click',function(){
     card4.append(cardBody)
     cardBody.append(img)
     cardBody.append(textRow)
-    textRow.innerHTML = `<h4>Click <span style="color:green">Yes</span> If The Number On Your Mind Is In This List Or Click <span style="color:red">No</span><br><span>8,9,10,11,12,13,14,15,24,25<br>26,27,28,29,30,31,40,41,42,43<br>44,45,46,47,56,57,60,61,62,63<br>72,73,74,75,76,77,78,79,80,81<br>82,83,84,85,86,87,88,89,90,91<br>92,93,94,95</h4>`
+    textRow.innerHTML = `<h4>Click <span style="color:green">Yes</span> If The Number On Your Mind Is In This List Or Click <span style="color:red">No</span><br><span>8,9,10,11,12,13,14,15,24,25<br>26,27,28,29,30,31,40,41,42,43<br>44,45,46,47,56,57,58,59,60,61<br>62,63,72,73,74,75,76,77,78,79<br>88,89,90,91,92,93,94,95</h4>`
     card4.append(card4BtnRow)
     mindCalculation(0)
 })
@@ -113,7 +113,7 @@ frthBtnYes.addEventListener('click',function(){
     card5.append(cardBody)
     cardBody.append(img)
     cardBody.append(textRow)
-    textRow.innerHTML = `<h4>Click <span style="color:green">Yes</span> If The Number On Your Mind Is In This List Or Click <span style="color:red">No</span><br><span>4,5,6,7,11,12,13,14,15,20<br>21,22,23,28,29,30,31,36,37,38<br>39,44,45,46,47,52,53,54,55,60<br>61,62,63,68,69,70,71,78,79,84<br>85,86,87,92,93,94,95,100</h4>`
+    textRow.innerHTML = `<h4>Click <span style="color:green">Yes</span> If The Number On Your Mind Is In This List Or Click <span style="color:red">No</span><br><span>4,5,6,7,12,13,14,15,20,21<br>22,23,28,29,30,31,36,37,38,39<br>44,45,46,47,52,53,54,55,60,61<br>62,63,68,69,70,71,76,77,78,79<br>84,85,86,87,92,93,94,95,100</h4>`
     card5.append(card5BtnRow)
     mindCalculation(8)
 })
@@ -125,7 +125,7 @@ frthBtnNo.addEventListener('click',function(){
     card5.append(cardBody)
     cardBody.append(img)
     cardBody.append(textRow)
-    textRow.innerHTML = `<h4>Click <span style="color:green">Yes</span> If The Number On Your Mind Is In This List Or Click <span style="color:red">No</span><br><span>4,5,6,7,11,12,13,14,15,20<br>21,22,23,28,29,30,31,36,37,38<br>39,44,45,46,47,52,53,54,55,60<br>61,62,63,68,69,70,71,78,79,84<br>85,86,87,92,93,94,95,100</h4>`
+    textRow.innerHTML = `<h4>Click <span style="color:green">Yes</span> If The Number On Your Mind Is In This List Or Click <span style="color:red">No</span><br><span>4,5,6,7,12,13,14,15,20,21<br>22,23,28,29,30,31,36,37,38,39<br>44,45,46,47,52,53,54,55,60,61<br>62,63,68,69,70,71,76,77,78,79<br>84,85,86,87,92,93,94,95,100</h4>`
     card5.append(card5BtnRow)
     mindCalculation(0)
 })
@@ -137,7 +137,7 @@ fivBtnYes.addEventListener('click',function(){
     card6.append(cardBody)
     cardBody.append(img)
     cardBody.append(textRow)
-    textRow.innerHTML = `<h4>Click <span style="color:green">Yes</span> If The Number On Your Mind Is In This List Or Click <span style="color:red">No</span><br><span>2,3,6,7,10,11,14,15,18,19<br>22,23,26,27,30,31,34,35,38,39<br>42,43,46,47,50,51,54,55,58,59<br>62,63,66,67,70,71,74,75,76,77<br>78,79,82,83,86,87,90,91,94,95<br>98,99</h4>`
+    textRow.innerHTML = `<h4>Click <span style="color:green">Yes</span> If The Number On Your Mind Is In This List Or Click <span style="color:red">No</span><br><span>2,3,6,7,10,11,14,15,18,19<br>22,23,26,27,30,31,34,35,38,39<br>42,43,46,47,50,51,54,55,58,59<br>62,63,66,67,70,71,74,75,78,79<br>82,83,86,87,90,91,94,95,98,99</h4>`
     card6.append(card6BtnRow)
     mindCalculation(4)
 })
@@ -149,7 +149,7 @@ fivBtnNo.addEventListener('click',function(){
     card6.append(cardBody)
     cardBody.append(img)
     cardBody.append(textRow)
-    textRow.innerHTML = `<h4>Click <span style="color:green">Yes</span> If The Number On Your Mind Is In This List Or Click <span style="color:red">No</span><br><span>2,3,6,7,10,11,14,15,18,19<br>22,23,26,27,30,31,34,35,38,39<br>42,43,46,47,50,51,54,55,58,59<br>62,63,66,67,70,71,74,75,76,77<br>78,79,82,83,86,87,90,91,94,95<br>98,99</h4>`
+    textRow.innerHTML = `<h4>Click <span style="color:green">Yes</span> If The Number On Your Mind Is In This List Or Click <span style="color:red">No</span><br><span>2,3,6,7,10,11,14,15,18,19<br>22,23,26,27,30,31,34,35,38,39<br>42,43,46,47,50,51,54,55,58,59<br>62,63,66,67,70,71,74,75,78,79<br>82,83,86,87,90,91,94,95,98,99</h4>`
     card6.append(card6BtnRow)
     mindCalculation(0)
 })
@@ -179,6 +179,7 @@ sixBtnNo.addEventListener('click',function(){
 })
 
 svnBtnYes.addEventListener('click',function(){
+    mindCalculation(1)
     const result1 = result()
     if(result1 > 0 && result1 <= 100)
     {
@@ -188,7 +189,7 @@ svnBtnYes.addEventListener('click',function(){
     card8.append(cardBody)
     cardBody.append(img)
     cardBody.append(textRow)
-    textRow.innerHTML = `<h4>The Number On Your Mind<span style="color:green"><br>${result1}</span> </h4>`
+    textRow.innerHTML = `<h4>The Number On Your Mind<br><span style="color:green;border:2px solid red;border-radius:25%">${result1}</span> </h4>`
     card8.append(card8BtnRow)
     }
     else
@@ -208,7 +209,7 @@ svnBtnYes.addEventListener('click',function(){
 })
 
 svnBtnNo.addEventListener('click',function(){
-
+    mindCalculation(0)
    const result1 = result()
     if(result1 > 0 && result1 <= 100)
     {
@@ -218,7 +219,7 @@ svnBtnNo.addEventListener('click',function(){
     card8.append(cardBody)
     cardBody.append(img)
     cardBody.append(textRow)
-    textRow.innerHTML = `<h4>The Number On Your Mind<span style="color:green"><br>${result1}</span> </h4>`
+    textRow.innerHTML = `<h4>The Number On Your Mind<br><span style="color:green;border:2px solid red;border-radius:25%">${result1}</span> </h4>`
     card8.append(card8BtnRow)
     }
     else
@@ -240,7 +241,6 @@ svnBtnNo.addEventListener('click',function(){
 
 
 let arr = [];
-
 function mindCalculation(temp){
     
     arr.push(temp);
@@ -253,7 +253,7 @@ function result(){
 
 }
 
-console.log(arr)
+
 
 function tryAgain(){
     arr.length = 0 ;

@@ -13,4 +13,4 @@
 + Javascript
 + Css
 
-[Mind Readind]()
+[Mind Readind](https://grpmindreading.netlify.app/)
